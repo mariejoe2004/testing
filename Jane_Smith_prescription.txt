@@ -1,0 +1,14 @@
+Printable Prescription
+
+Treatment Plan:
+Patient Name: Jane Smith
+Date of Birth: 1995-05-05
+Age: 29
+Medication Frequency: 3 times per day
+Duration of Treatment: 30 days
+Medication Type: Antibiotics
+
+Prescription Details:
+Dosage: 2
+Duration: 7 days
+Condition: Infection
